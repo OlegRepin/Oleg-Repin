@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/laba2.iml" filepath="$PROJECT_DIR$/laba2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zadaniye2/zadaniye2.iml" filepath="$PROJECT_DIR$/zadaniye2/zadaniye2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zadaniye3/zadaniye3.iml" filepath="$PROJECT_DIR$/zadaniye3/zadaniye3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zadaniye4/zadaniye4.iml" filepath="$PROJECT_DIR$/zadaniye4/zadaniye4.iml" />
+    </modules>
+  </component>
+</project>
